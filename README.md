@@ -7,7 +7,11 @@
       src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"
       width="200"
     />
-    
+    <br>
+    <img
+              width="150"
+              src="https://image.flaticon.com/icons/svg/201/201571.svg"
+            />
   </a>
 </p>
 
