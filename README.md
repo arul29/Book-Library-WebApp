@@ -1,15 +1,10 @@
-# CRUD-React-Redux
+# Book-Library-WebApp
 
 <p align="center">
   <a href="https://reactjs.org/">
     <img
       alt="Node.js"
       src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"
-      width="200"
-    />
-    <img
-      alt="Node.js"
-      src="https://miro.medium.com/max/1400/0*U2DmhXYumRyXH6X1.png"
       width="200"
     />
     
@@ -33,7 +28,7 @@
 
 ````bash
 1. Clone repository
-   `$ git clone https://github.com/arul29/CRUD-React-Redux.git
+   `$ git clone https://github.com/arul29/Book-Library-WebApp
 
 2. Install depedencies
 
@@ -48,7 +43,7 @@ $ yarn install
 3. Start Web server
 
 ```bash
-$ nodemon server
+$ npm start
 ```
 
 ## Stacks
@@ -74,6 +69,7 @@ $ nodemon server
 - `App.js` -
 - `src/Components` -
 - `src/Assets` -
+- `src/Public` -
 
 ---
 
@@ -88,4 +84,3 @@ $ nodemon server
 ![Untitled2](https://user-images.githubusercontent.com/54633249/68989324-6cefb280-0877-11ea-9c25-e0f71ea1341c.png)
 
 Copyright © 2019 by Andi Mashdarul Khair
-# Book-Library-WebApp
