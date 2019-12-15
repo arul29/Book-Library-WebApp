@@ -31,10 +31,11 @@
 
 ## Build Setup
 
-````bash
-1. Clone repository
-   `$ git clone https://github.com/arul29/Book-Library-WebApp
 
+1. Clone repository
+```bash
+$ git clone https://github.com/arul29/Book-Library-WebApp
+```
 2. Install depedencies
 
 ```bash
@@ -43,7 +44,7 @@ $ npm install
 
 # or with yarn
 $ yarn install
-````
+```
 
 3. Start Web server
 
@@ -76,24 +77,30 @@ $ npm start
 - `src/Assets` -
 - `src/Public` -
 
----
+
 
 ## Demo
 
-<h2>
-
-<a href="https://booklibrary-app.netlify.com">Book Library Web App</a>
-
-</h2>
+<h2><a href="https://booklibrary-app.netlify.com">Book Library Web App</a></h2>
 
 ## Screenshots
 
 - Home
 
-![Untitled](https://user-images.githubusercontent.com/54633249/68989313-49c50300-0877-11ea-806e-5ce5d1890b3e.png)
+![2](https://user-images.githubusercontent.com/54633249/70865944-cbeb3900-1f95-11ea-9524-71804e367ca7.png)
 
 - Details
 
-![Untitled2](https://user-images.githubusercontent.com/54633249/68989324-6cefb280-0877-11ea-9c25-e0f71ea1341c.png)
+![4](https://user-images.githubusercontent.com/54633249/70865947-d3aadd80-1f95-11ea-89f9-de6c228bde1c.png)
+
+- Wishlist
+
+![5](https://user-images.githubusercontent.com/54633249/70865978-474cea80-1f96-11ea-89ce-104feaa7ff30.png)
+
+- History
+
+![6](https://user-images.githubusercontent.com/54633249/70865985-5d5aab00-1f96-11ea-9e0f-caed390a6a6a.png)
+
+---
 
 Copyright © 2019 by Andi Mashdarul Khair
