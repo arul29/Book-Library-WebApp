@@ -4,14 +4,10 @@
   <a href="https://reactjs.org/">
     <img
       alt="Node.js"
-      src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"
-      width="200"
+      src="https://user-images.githubusercontent.com/54633249/70867439-21304600-1fa8-11ea-8a81-dab0210784b1.png"
+      width="400"
     />
     <br>
-    <img
-              width="150"
-              src="https://image.flaticon.com/icons/svg/201/201571.svg"
-            />
   </a>
 </p>
 
