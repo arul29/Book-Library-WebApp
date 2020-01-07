@@ -27,12 +27,9 @@
 
 ## Build Setup
 
-
-1. Clone repository
-```bash
-$ git clone https://github.com/arul29/Book-Library-WebApp
-```
-2. Install depedencies
+- Clone repository  
+  `$ git clone https://github.com/arul29/Book-Library-WebApp.git`
+- Install depedencies
 
 ```bash
 # with npm
@@ -42,7 +39,7 @@ $ npm install
 $ yarn install
 ```
 
-3. Start Web server
+- Start Web server
 
 ```bash
 $ npm start
@@ -72,8 +69,6 @@ $ npm start
 - `src/Components` -
 - `src/Assets` -
 - `src/Public` -
-
-
 
 ## Demo
 
