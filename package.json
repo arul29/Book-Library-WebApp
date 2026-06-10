@@ -14,8 +14,8 @@
     "redux": "^4.0.4",
     "redux-logger": "^3.0.6",
     "redux-promise-middleware": "^6.1.2",
-    "sweetalert2": "^9.4.0",
-    "sweetalert2-react-content": "^2.0.2"
+    "sweetalert2": "^11.26.25",
+    "sweetalert2-react-content": "^5.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
